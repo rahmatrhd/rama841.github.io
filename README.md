@@ -15,13 +15,13 @@ Website pertama saya di github
 - `<p>`
 
 ### CSS Properties :
-- background-color
-- color
-- margin
-- text-align
-- font-family
-- max-width
+- `background-color`
+- `color`
+- `margin`
+- `text-align`
+- `font-family`
+- `max-width`
 
 
-##About Me
+## About Me
 Saya adalah siswa Batch 10 #JackFox di Hacktiv8  
