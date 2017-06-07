@@ -8,11 +8,11 @@ Website pertama saya di github
 ## Used Tags & Syntaxes
 
 ### HTML Tags :
-- <header>
-- <h1>
-- <h3>
-- <section>
-- <p>
+- `<header>`
+- `<h1>`
+- `<h3>`
+- `<section>`
+- `<p>`
 
 ### CSS Properties :
 - background-color
@@ -23,3 +23,5 @@ Website pertama saya di github
 - max-width
 
 
+##About Me
+Saya adalah siswa Batch 10 #JackFox di Hacktiv8  
