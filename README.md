@@ -25,5 +25,3 @@ Website pertama saya di github
 
 ## About Me
 Saya adalah siswa Batch 10 #JackFox di Hacktiv8
-
-__branch added__
